@@ -1,0 +1,5 @@
+
+@mixin subTitleSize ($titleSizeParam, $color) {
+  font-size: $titleSize - 4px;
+  color: $color;
+}
